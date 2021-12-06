@@ -1,0 +1,100 @@
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\Clinica-_-.exe.config
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\Clinica-_-.exe
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\Clinica-_-.pdb
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\BouncyCastle.Crypto.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\EntityFramework.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\EntityFramework.SqlServer.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\Google.Protobuf.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\K4os.Compression.LZ4.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\K4os.Hash.xxHash.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\MySql.Data.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\MySql.Data.EntityFramework.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Buffers.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Memory.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Numerics.Vectors.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\Ubiety.Dns.Core.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\ZstdNet.dll
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\EntityFramework.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\EntityFramework.SqlServer.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\Google.Protobuf.pdb
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\Google.Protobuf.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\K4os.Compression.LZ4.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\K4os.Hash.xxHash.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\MySql.Data.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Buffers.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Memory.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Numerics.Vectors.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\MainWindow.g.cs
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\App.g.cs
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-_Content.g.cs
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-_MarkupCompile.cache
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-_MarkupCompile.lref
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\MainWindow.baml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.g.resources
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica___.Properties.Resources.resources
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.csproj.GenerateResource.cache
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.csproj.CoreCompileInputs.cache
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.csproj.CopyComplete
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.exe
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.pdb
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\LoginWindow.g.cs
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\LoginWindow.baml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.csproj.AssemblyReference.cache
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\UsersWindows.g.cs
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\UsersWindows.baml
+E:\Практика 48каб\Clinica-_-\Clinica-_-\obj\Debug\Clinica-_-.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\Clinica-_-.exe.config
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\Clinica-_-.exe
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\Clinica-_-.pdb
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\LoginWindow.g.cs
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\UsersWindows.g.cs
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\App.g.cs
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-_Content.g.cs
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-_MarkupCompile.cache
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-_MarkupCompile.lref
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\LoginWindow.baml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\UsersWindows.baml
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.g.resources
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica___.Properties.Resources.resources
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.csproj.CopyComplete
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.exe
+C:\Users\User\Desktop\kruzhik_tkachenko_clinica\Clinica-_-\obj\Debug\Clinica-_-.pdb

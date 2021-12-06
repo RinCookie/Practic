@@ -1,0 +1,117 @@
+﻿<Window x:Class="Clinica___.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clinica___"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Журнал" GotFocus="TabItem_GotFocus" HorizontalAlignment="Left" Width="59">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Height="25" DockPanel.Dock="Top">
+                        <Button Content="Отчёт" Width="100" Margin="3 0" Click="ReportButton_Click"/>
+                        <Button Content="Сохранить изменения" Margin="3 0" Width="150" Click="SaveChangesButton_Click"/>
+                        <Button Content="Отменить изменения" Margin="3 0" Width="150" Click="CancelChangesButton_Click"/>
+                        <Button Content="Удалить" Margin="3 0" Width="70" Click="DeleteButton_Click"/>
+                    </StackPanel>
+                    <StackPanel Width="200" DockPanel.Dock="Right">
+                        <TextBlock Text="Фио пациента" Margin="5 0 0 0"/>
+                        <TextBox x:Name="JournalSearchPat" Margin="5px"/>
+                        <TextBlock Text="Диагноз" Margin="5 0 0 0"/>
+                        <TextBox x:Name="JournalSearchDig" Margin="5px"/>
+                        <TextBlock Text="Фио доктора" Margin="5 0 0 0"/>
+                        <TextBox x:Name="JournalSearchDoc" Margin="5px"/>
+                        <TextBlock Text="Адрес пациента" Margin="5 0 0 0"/>
+                        <TextBox x:Name="JournalSearchAdr" Margin="5px"/>
+                        <Button Content="Поиск" Margin="5" Click="SearchButton_Click"/>
+                        <Button Content="Очистить поля" Margin="5 0 5 0" Click="CancelSearchButton_Click"/>
+                    </StackPanel>
+                    <DataGrid x:Name="JournalTable" CanUserResizeRows="False" AutoGenerateColumns="False" Margin="10 0 10 10">
+                        <DataGrid.Columns>
+                            <DataGridComboBoxColumn x:Name="colPatient" Header="Фио пациента"
+                    DisplayMemberPath="Name"
+                    SelectedValuePath="ID" 
+                    SelectedValueBinding="{Binding Path=PatientID}" 
+                    Width="150"/>
+                            <DataGridComboBoxColumn x:Name="colDiagnosis" Header="Диагноз" 
+                    DisplayMemberPath="Name" 
+                    SelectedValuePath="ID" 
+                    SelectedValueBinding="{Binding Path=DiagnosisID}" 
+                    Width="150"/>
+                            <DataGridComboBoxColumn x:Name="colDoctor" Header="Фио доктора" 
+                    DisplayMemberPath="Name" 
+                    SelectedValuePath="ID" 
+                    SelectedValueBinding="{Binding Path=DoctorID}" 
+                    Width="150"/>
+                            <DataGridComboBoxColumn x:Name="colAdress" Header="Адрес пациента" 
+                    DisplayMemberPath="Name" 
+                    SelectedValuePath="ID" 
+                    SelectedValueBinding="{Binding Path=AdressID}" 
+                    Width="150"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </DockPanel>
+            </TabItem>
+            <TabItem Header="Пациенты" GotFocus="TabItem_GotFocus">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Height="25" DockPanel.Dock="Top">
+                        <Button Content="Сохранить изменения" Margin="3 0" Width="150" Click="SaveChangesButton_Click"/>
+                        <Button Content="Отменить изменения" Margin="3 0" Width="150" Click="CancelChangesButton_Click"/>
+                        <Button Content="Удалить" Margin="3 0" Width="70" Click="DeleteButton_Click"/>
+                    </StackPanel>
+                    <DataGrid x:Name="PatientTable" CanUserResizeRows="False" AutoGenerateColumns="False" Margin="10 0 10 10">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Фио пациента" Width="*" Binding="{Binding Path=Name}"/>
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+                </DockPanel>
+            </TabItem>
+            <TabItem Header="Диагнозы" GotFocus="TabItem_GotFocus">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Height="25" DockPanel.Dock="Top">
+                        <Button Content="Сохранить изменения" Margin="3 0" Width="150" Click="SaveChangesButton_Click"/>
+                        <Button Content="Отменить изменения" Margin="3 0" Width="150" Click="CancelChangesButton_Click"/>
+                        <Button Content="Удалить" Margin="3 0" Width="70" Click="DeleteButton_Click"/>
+                    </StackPanel>
+                    <DataGrid x:Name="DiagnosisTable" CanUserResizeRows="False" AutoGenerateColumns="False" Margin="10 0 10 10">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Название диагноза" Width="*" Binding="{Binding Path=Name}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </DockPanel>
+
+            </TabItem>
+            <TabItem Header="Доктора" GotFocus="TabItem_GotFocus">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Height="25" DockPanel.Dock="Top">
+                        <Button Content="Сохранить изменения" Margin="3 0" Width="150" Click="SaveChangesButton_Click"/>
+                        <Button Content="Отменить изменения" Margin="3 0" Width="150" Click="CancelChangesButton_Click"/>
+                        <Button Content="Удалить" Margin="3 0" Width="70" Click="DeleteButton_Click"/>
+                    </StackPanel>
+                    <DataGrid x:Name="DoctorTable" CanUserResizeRows="False" AutoGenerateColumns="False" Margin="10 0 10 10">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Фио доктора" Width="*" Binding="{Binding Path=Name}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </DockPanel>
+            </TabItem>
+            <TabItem Header="Адреса" GotFocus="TabItem_GotFocus">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Height="25" DockPanel.Dock="Top">
+                        <Button Content="Сохранить изменения" Margin="3 0" Width="150" Click="SaveChangesButton_Click"/>
+                        <Button Content="Отменить изменения" Margin="3 0" Width="150" Click="CancelChangesButton_Click"/>
+                        <Button Content="Удалить" Margin="3 0" Width="70" Click="DeleteButton_Click"/>
+                    </StackPanel>
+                    <DataGrid x:Name="AdressTable" CanUserResizeRows="False" AutoGenerateColumns="False" Margin="10 0 10 10">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Адрес пациента" Width="*" Binding="{Binding Path=Name}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </DockPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
